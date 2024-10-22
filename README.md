@@ -12,11 +12,17 @@ C Compiler (e.g., GCC or Clang),
 stb_image.h and stb_image_write.h
 
 How to Build and Run:-
+
 step 1:- Clone the repository
+
 step 2:- Make sure you have the stb_image and stb_image_write headers in your working directory or installed.
+
 step 3:- Compile the program.
+
 step 4:- Run the program
 
 How to Use:-
+
 Place the images (1.jpg, 2.jpg) in the project directory.
+
 Run the program, and it will output a concatenated image as concat.png.
