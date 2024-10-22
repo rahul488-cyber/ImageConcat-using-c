@@ -21,8 +21,8 @@ ImageConcat using C is a lightweight image processing tool that concatenates ima
 
 - step 4:- Run the program
 
-How to Use:-
+# How to Use:-
 
-Place the images (1.jpg, 2.jpg) in the project directory.
+- Place the images (1.jpg, 2.jpg) in the project directory.
 
-Run the program, and it will output a concatenated image as concat.png.
+- Run the program, and it will output a concatenated image as concat.png.
